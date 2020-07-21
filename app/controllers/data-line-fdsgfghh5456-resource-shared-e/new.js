@@ -1,4 +1,0 @@
-import DataLinefdsgfghh5456resource_sharedEController from '../data-line-fdsgfghh5456-resource-shared-e';
-
-var DataLinefdsgfghh5456resource_sharedENewController = DataLinefdsgfghh5456resource_sharedEController;
-export default DataLinefdsgfghh5456resource_sharedENewController;

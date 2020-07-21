@@ -1,4 +1,0 @@
-import DataLinefdsgfghh5456product_catalogEController from '../data-line-fdsgfghh5456-product-catalog-e';
-
-var DataLinefdsgfghh5456product_catalogENewController = DataLinefdsgfghh5456product_catalogEController;
-export default DataLinefdsgfghh5456product_catalogENewController;

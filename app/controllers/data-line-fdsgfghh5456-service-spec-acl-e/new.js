@@ -1,4 +1,0 @@
-import DataLinefdsgfghh5456service_spec_aclEController from '../data-line-fdsgfghh5456-service-spec-acl-e';
-
-var DataLinefdsgfghh5456service_spec_aclENewController = DataLinefdsgfghh5456service_spec_aclEController;
-export default DataLinefdsgfghh5456service_spec_aclENewController;

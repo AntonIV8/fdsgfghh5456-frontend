@@ -1,4 +1,0 @@
-import DataLinefdsgfghh5456cardinality_typeEController from '../data-line-fdsgfghh5456-cardinality-type-e';
-
-var DataLinefdsgfghh5456cardinality_typeENewController = DataLinefdsgfghh5456cardinality_typeEController;
-export default DataLinefdsgfghh5456cardinality_typeENewController;

@@ -1,4 +1,0 @@
-import DataLinefdsgfghh5456user_service_orderEController from '../data-line-fdsgfghh5456-user-service-order-e';
-
-var DataLinefdsgfghh5456user_service_orderENewController = DataLinefdsgfghh5456user_service_orderEController;
-export default DataLinefdsgfghh5456user_service_orderENewController;

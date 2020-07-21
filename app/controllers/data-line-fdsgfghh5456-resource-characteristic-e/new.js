@@ -1,4 +1,0 @@
-import DataLinefdsgfghh5456resource_characteristicEController from '../data-line-fdsgfghh5456-resource-characteristic-e';
-
-var DataLinefdsgfghh5456resource_characteristicENewController = DataLinefdsgfghh5456resource_characteristicEController;
-export default DataLinefdsgfghh5456resource_characteristicENewController;

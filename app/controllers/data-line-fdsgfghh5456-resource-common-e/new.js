@@ -1,4 +1,0 @@
-import DataLinefdsgfghh5456resource_commonEController from '../data-line-fdsgfghh5456-resource-common-e';
-
-var DataLinefdsgfghh5456resource_commonENewController = DataLinefdsgfghh5456resource_commonEController;
-export default DataLinefdsgfghh5456resource_commonENewController;

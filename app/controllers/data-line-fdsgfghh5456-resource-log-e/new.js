@@ -1,4 +1,0 @@
-import DataLinefdsgfghh5456resource_logEController from '../data-line-fdsgfghh5456-resource-log-e';
-
-var DataLinefdsgfghh5456resource_logENewController = DataLinefdsgfghh5456resource_logEController;
-export default DataLinefdsgfghh5456resource_logENewController;

@@ -1,4 +1,0 @@
-import DataLinefdsgfghh5456dictionaryEController from '../data-line-fdsgfghh5456-dictionary-e';
-
-var DataLinefdsgfghh5456dictionaryENewController = DataLinefdsgfghh5456dictionaryEController;
-export default DataLinefdsgfghh5456dictionaryENewController;

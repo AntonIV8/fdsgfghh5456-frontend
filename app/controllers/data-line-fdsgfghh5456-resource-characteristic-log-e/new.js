@@ -1,4 +1,0 @@
-import DataLinefdsgfghh5456resource_characteristic_logEController from '../data-line-fdsgfghh5456-resource-characteristic-log-e';
-
-var DataLinefdsgfghh5456resource_characteristic_logENewController = DataLinefdsgfghh5456resource_characteristic_logEController;
-export default DataLinefdsgfghh5456resource_characteristic_logENewController;

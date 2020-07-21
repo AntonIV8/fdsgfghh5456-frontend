@@ -1,4 +1,0 @@
-import DataLinefdsgfghh5456characteristic_typeEController from '../data-line-fdsgfghh5456-characteristic-type-e';
-
-var DataLinefdsgfghh5456characteristic_typeENewController = DataLinefdsgfghh5456characteristic_typeEController;
-export default DataLinefdsgfghh5456characteristic_typeENewController;

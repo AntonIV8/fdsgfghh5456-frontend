@@ -1,4 +1,0 @@
-import DataLinefdsgfghh5456service_stateEController from '../data-line-fdsgfghh5456-service-state-e';
-
-var DataLinefdsgfghh5456service_stateENewController = DataLinefdsgfghh5456service_stateEController;
-export default DataLinefdsgfghh5456service_stateENewController;
