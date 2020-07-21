@@ -1,0 +1,4 @@
+import DataLinefdsgfghh5456customer_aclEController from '../data-line-fdsgfghh5456-customer-acl-e';
+
+var DataLinefdsgfghh5456customer_aclENewController = DataLinefdsgfghh5456customer_aclEController;
+export default DataLinefdsgfghh5456customer_aclENewController;

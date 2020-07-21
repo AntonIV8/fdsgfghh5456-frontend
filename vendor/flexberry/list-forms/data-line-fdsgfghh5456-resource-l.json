@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fdsgfghh5456-resource-e",
+  "editForm": "data-line-fdsgfghh5456-resource-e",
+  "external": false,
+  "caption": "Resource",
+  "name": "DataLinefdsgfghh5456resourceL",
+  "className": "resourceL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-proto-one-resource",
+      "modelProjection": "resourceL"
+    }
+  ]
+}

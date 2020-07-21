@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fdsgfghh5456-service-state-e",
+  "editForm": "data-line-fdsgfghh5456-service-state-e",
+  "external": false,
+  "caption": "Service_state",
+  "name": "DataLinefdsgfghh5456service_stateL",
+  "className": "service_stateL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-proto-one-service-state",
+      "modelProjection": "service_stateL"
+    }
+  ]
+}

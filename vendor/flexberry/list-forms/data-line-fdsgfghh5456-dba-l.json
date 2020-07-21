@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fdsgfghh5456-dba-e",
+  "editForm": "data-line-fdsgfghh5456-dba-e",
+  "external": false,
+  "caption": "Dba",
+  "name": "DataLinefdsgfghh5456dbaL",
+  "className": "dbaL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-proto-one-dba",
+      "modelProjection": "dbaL"
+    }
+  ]
+}

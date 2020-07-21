@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fdsgfghh5456-catalog-e",
+  "editForm": "data-line-fdsgfghh5456-catalog-e",
+  "external": false,
+  "caption": "Catalog",
+  "name": "DataLinefdsgfghh5456catalogL",
+  "className": "catalogL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-proto-one-catalog",
+      "modelProjection": "catalogL"
+    }
+  ]
+}

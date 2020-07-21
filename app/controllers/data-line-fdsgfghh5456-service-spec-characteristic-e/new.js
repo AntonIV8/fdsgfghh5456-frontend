@@ -1,0 +1,4 @@
+import DataLinefdsgfghh5456service_spec_characteristicEController from '../data-line-fdsgfghh5456-service-spec-characteristic-e';
+
+var DataLinefdsgfghh5456service_spec_characteristicENewController = DataLinefdsgfghh5456service_spec_characteristicEController;
+export default DataLinefdsgfghh5456service_spec_characteristicENewController;

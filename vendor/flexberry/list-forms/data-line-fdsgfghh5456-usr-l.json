@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fdsgfghh5456-usr-e",
+  "editForm": "data-line-fdsgfghh5456-usr-e",
+  "external": false,
+  "caption": "Usr",
+  "name": "DataLinefdsgfghh5456usrL",
+  "className": "usrL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-proto-one-usr",
+      "modelProjection": "usrL"
+    }
+  ]
+}

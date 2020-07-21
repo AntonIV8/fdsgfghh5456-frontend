@@ -1,0 +1,4 @@
+import DataLinefdsgfghh5456resource_usage_specEController from '../data-line-fdsgfghh5456-resource-usage-spec-e';
+
+var DataLinefdsgfghh5456resource_usage_specENewController = DataLinefdsgfghh5456resource_usage_specEController;
+export default DataLinefdsgfghh5456resource_usage_specENewController;

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fdsgfghh5456-service-log-e",
+  "editForm": "data-line-fdsgfghh5456-service-log-e",
+  "external": false,
+  "caption": "Service_log",
+  "name": "DataLinefdsgfghh5456service_logL",
+  "className": "service_logL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-proto-one-service-log",
+      "modelProjection": "service_logL"
+    }
+  ]
+}

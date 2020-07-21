@@ -1,0 +1,4 @@
+import DataLinefdsgfghh5456contragentEController from '../data-line-fdsgfghh5456-contragent-e';
+
+var DataLinefdsgfghh5456contragentENewController = DataLinefdsgfghh5456contragentEController;
+export default DataLinefdsgfghh5456contragentENewController;

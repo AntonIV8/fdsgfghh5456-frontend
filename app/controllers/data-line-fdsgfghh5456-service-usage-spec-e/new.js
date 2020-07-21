@@ -1,0 +1,4 @@
+import DataLinefdsgfghh5456service_usage_specEController from '../data-line-fdsgfghh5456-service-usage-spec-e';
+
+var DataLinefdsgfghh5456service_usage_specENewController = DataLinefdsgfghh5456service_usage_specEController;
+export default DataLinefdsgfghh5456service_usage_specENewController;

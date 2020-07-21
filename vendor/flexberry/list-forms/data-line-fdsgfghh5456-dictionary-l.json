@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fdsgfghh5456-dictionary-e",
+  "editForm": "data-line-fdsgfghh5456-dictionary-e",
+  "external": false,
+  "caption": "Dictionary",
+  "name": "DataLinefdsgfghh5456dictionaryL",
+  "className": "dictionaryL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-proto-one-dictionary",
+      "modelProjection": "dictionaryL"
+    }
+  ]
+}
